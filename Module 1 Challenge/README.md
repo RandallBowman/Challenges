@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-
+  The analysis was performed to help the client understand the best time to launch a fundraising campain and also to understand what might be a goal that will be the most successful.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
