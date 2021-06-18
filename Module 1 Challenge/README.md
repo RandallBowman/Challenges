@@ -10,7 +10,7 @@
 ![Outcomes Based on Launch Date](OutcomesBasedonLaunchDate.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Launch Date](OutcomesBasedonLaunchDate.png)
+![Outcomes Based on Launch Date](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
