@@ -7,8 +7,10 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Outcomes Based on Launch Date](OutcomesBasedonLaunchDate.png)
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes Based on Launch Date](OutcomesBasedonLaunchDate.png)
 
 ### Challenges and Difficulties Encountered
 
