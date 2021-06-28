@@ -1,6 +1,11 @@
 # Overview of Project:
 The purpose of the project is to develope a spreadsheet that shows information about a group of 12 stocks. The results show the total dialy volume and the return for the stocks for the years 2017 and 2018.
 # Results:
+
+## Performance for 2017
+
+![Performance for 2017](Recources/Results2017.png)
+
 ## Timing Results for My Code
 
 ![Results for My Code](Resources/TimingResultsOfMyCode.png)
