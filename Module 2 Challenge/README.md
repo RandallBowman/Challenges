@@ -16,11 +16,11 @@ As the images below show, 2017 was a mutch better year for stock returns. The DQ
 
 ![Results for My Code](Resources/TimingResultsOfMyCode.png)
 
-## Timing Results for 2017
+## Timing Results for 2017 refactored code
 
 ![Result 2017](Resources/VBA_Challenge_2017.png)
 
-## Timing Results for 2018
+## Timing Results for 2018 refactored code
 
 ![Result 2018](Resources/VBA_Challenge_2018.png)
 
