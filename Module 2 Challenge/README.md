@@ -2,6 +2,8 @@
 The purpose of the project is to develope a spreadsheet that shows information about a group of 12 stocks. The results show the total dialy volume and the return for the stocks for the years 2017 and 2018.
 # Results:
 
+As the images below show, 2017 was a mutch better year for stock returns. The DQ stock probably should be sold and reinvested in either ENPH or RUN to get a better return.
+
 ## Performance for 2017
 
 ![Performance for 2017](Resources/Results2017.png)
