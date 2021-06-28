@@ -4,7 +4,11 @@ The purpose of the project is to develope a spreadsheet that shows information a
 
 ## Performance for 2017
 
-![Performance for 2017](Recources/Results2017.png)
+![Performance for 2017](Resources/Results2017.png)
+
+## Performance for 2018
+
+![Performance for 2018](Resources/Results2018.png)
 
 ## Timing Results for My Code
 
